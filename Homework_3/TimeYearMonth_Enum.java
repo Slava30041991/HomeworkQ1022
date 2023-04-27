@@ -1,6 +1,9 @@
 package Homework_3;
+
 import java.util.Scanner;
+
 public class TimeYearMonth_Enum {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите месяц : ");
