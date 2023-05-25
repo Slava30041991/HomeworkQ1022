@@ -9,7 +9,6 @@ public class MyMemory {
        DataService service = new DataService() {
            @Override
            public void add(String text) throws littleMemory {
-
            }
            @Override
            public String get() throws NoItems {
